@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Client.xsd" generated="2019-11-21T13:19:44">
+<Client>
+<ClientNum>143</ClientNum>
+<ClientName>Hershey, Jarrod</ClientName>
+<Street>135 E. Mill Street</Street>
+<City>Easton</City>
+<State>FL</State>
+<ZipCode>33998</ZipCode>
+<Balance>1904.55</Balance>
+<CreditLimit>2500</CreditLimit>
+<ConsltNum>19</ConsltNum>
+</Client>
+<Client>
+<ClientNum>175</ClientNum>
+<ClientName>Goduto, Sean</ClientName>
+<Street>12 Saratoga Parkway</Street>
+<City>Tri City</City>
+<State>FL</State>
+<ZipCode>32889</ZipCode>
+<Balance>2814.55</Balance>
+<CreditLimit>5000</CreditLimit>
+<ConsltNum>19</ConsltNum>
+</Client>
+<Client>
+<ClientNum>299</ClientNum>
+<ClientName>Two Crafty Cousins</ClientName>
+<Street>9787 NCR 350 West</Street>
+<City>Sunland</City>
+<State>FL</State>
+<ZipCode>39876</ZipCode>
+<Balance>8354</Balance>
+<CreditLimit>10000</CreditLimit>
+<ConsltNum>22</ConsltNum>
+</Client>
+<Client>
+<ClientNum>322</ClientNum>
+<ClientName>Prichard&apos;s Pizza &amp; Pasta</ClientName>
+<Street>501 Air Parkway</Street>
+<City>Lizton</City>
+<State>FL</State>
+<ZipCode>34344</ZipCode>
+<Balance>7335.55</Balance>
+<CreditLimit>10000</CreditLimit>
+<ConsltNum>35</ConsltNum>
+</Client>
+<Client>
+<ClientNum>363</ClientNum>
+<ClientName>Salazar, Jason</ClientName>
+<Street>56473 Cherry Tree Dr.</Street>
+<City>Easton</City>
+<State>FL</State>
+<ZipCode>33998</ZipCode>
+<Balance>900.75</Balance>
+<CreditLimit>2500</CreditLimit>
+<ConsltNum>35</ConsltNum>
+</Client>
+<Client>
+<ClientNum>405</ClientNum>
+<ClientName>Fisherman&apos;s Spot Shop</ClientName>
+<Street>49 Elwood Ave.</Street>
+<City>Harpersburg</City>
+<State>FL</State>
+<ZipCode>31234</ZipCode>
+<Balance>4113.4</Balance>
+<CreditLimit>7500</CreditLimit>
+<ConsltNum>19</ConsltNum>
+</Client>
+<Client>
+<ClientNum>449</ClientNum>
+<ClientName>Seymour, Lindsey</ClientName>
+<Street>4091 Brentwood Ln</Street>
+<City>Amo</City>
+<State>FL</State>
+<ZipCode>34466</ZipCode>
+<Balance>557.7</Balance>
+<CreditLimit>5000</CreditLimit>
+<ConsltNum>22</ConsltNum>
+</Client>
+<Client>
+<ClientNum>458</ClientNum>
+<ClientName>Bonnie&apos;s Beautiful Boutique</ClientName>
+<Street>9565 Ridge Rd.</Street>
+<City>Tri City</City>
+<State>FL</State>
+<ZipCode>32889</ZipCode>
+<Balance>4053.8</Balance>
+<CreditLimit>7500</CreditLimit>
+<ConsltNum>22</ConsltNum>
+</Client>
+<Client>
+<ClientNum>677</ClientNum>
+<ClientName>Yates, Nick</ClientName>
+<Street>231 Day Rd.</Street>
+<City>Sunland</City>
+<State>FL</State>
+<ZipCode>39876</ZipCode>
+<Balance>2523.8</Balance>
+<CreditLimit>2500</CreditLimit>
+<ConsltNum>35</ConsltNum>
+</Client>
+<Client>
+<ClientNum>733</ClientNum>
+<ClientName>Howler, Laura</ClientName>
+<Street>1368 E. 1000 S.</Street>
+<City>Lizton</City>
+<State>FL</State>
+<ZipCode>34344</ZipCode>
+<Balance>3658.05</Balance>
+<CreditLimit>5000</CreditLimit>
+<ConsltNum>22</ConsltNum>
+</Client>
+<Client>
+<ClientNum>826</ClientNum>
+<ClientName>Harpersburg Bank</ClientName>
+<Street>65 Forrest Blvd.</Street>
+<City>Harpersburg</City>
+<State>FL</State>
+<ZipCode>31234</ZipCode>
+<Balance>6824.55</Balance>
+<CreditLimit>10000</CreditLimit>
+<ConsltNum>19</ConsltNum>
+</Client>
+<Client>
+<ClientNum>867</ClientNum>
+<ClientName>MarketPoint Sales</ClientName>
+<Street>826 Host St.</Street>
+<City>Easton</City>
+<State>FL</State>
+<ZipCode>33998</ZipCode>
+<Balance>3089</Balance>
+<CreditLimit>5000</CreditLimit>
+<ConsltNum>19</ConsltNum>
+</Client>
+</dataroot>
